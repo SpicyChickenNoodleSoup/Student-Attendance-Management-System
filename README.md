@@ -9,6 +9,7 @@ To test SAMS in local host, clone the repository and open with VS Code, using th
 You can test SAMS with images of Harry, Hermione, and Ron, or by putting your own photos in.
 
 Upcoming updates to this project:
+
 Next Update:
 - A Flask server in Python to deploy the application on PythonAnywhere
 - Feature to record attendances to a CSV file which refreshes daily
