@@ -1,8 +1,8 @@
 # Student-Attendance-Management-System
-Student attendance management system for the browser using face recognition with face-api.js by @justadudewhohacks.
+Student attendance management system for the browser using face recognition on user's webcam with face-api.js by @justadudewhohacks. 
 
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/85361959/226543990-f04b578d-fced-4e5c-b1d4-e00a9e55791e.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/85361959/226542549-4e4ff4ef-9ccc-43b6-8936-d2a3adf6b77f.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226543990-f04b578d-fced-4e5c-b1d4-e00a9e55791e.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226542549-4e4ff4ef-9ccc-43b6-8936-d2a3adf6b77f.png">
 
 To test SAMS in local host, clone the repository and open with VS Code, using the Live Server extension from https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer. 
 
