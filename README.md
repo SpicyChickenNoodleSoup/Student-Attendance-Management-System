@@ -12,7 +12,7 @@ Updates in Version 2:
 - Added a pop-up display option to view attendance log, including student name and time when attendance was taken
 - And other minor updates
 
-<img width="960" alt="Screenshot 2023-05-12 222304" src="https://github.com/SpicyChickenNoodleSoup/Student-Attendance-Management-System/assets/85361959/e175cb50-801b-49b9-9477-febbde47192c">
+<img width="600" alt="Screenshot 2023-05-12 222304" src="https://github.com/SpicyChickenNoodleSoup/Student-Attendance-Management-System/assets/85361959/e175cb50-801b-49b9-9477-febbde47192c">
 
 Upcoming updates to this project:
 
