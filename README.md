@@ -6,6 +6,28 @@ Student attendance management system for the browser using face recognition on v
 
 You can test SAMS with images of Harry, Hermione, and Ron from Harry Potter, or by putting your own photos in.
 
+To test SAMS, git clone the repository and cd into the repository folder. 
+
+For Windows Powershell:
+```
+venv\Scripts\activate
+```
+```
+python server.py
+```
+```
+$env:FLASK_APP = "server.py"
+```
+```
+flask run
+```
+An error that may occur is ``running scripts is disabled on this system``. 
+Open Windows PowerShell with administrator privileges by pressing Windows+R to open Run, and then type “powershell” in the text box. Next, press Ctrl+Shift+Enter.
+In Powershell administrator, type
+```
+Set-ExecutionPolicy RemoteSigned
+```
+
 Updates in Version 2:
 
 - Added a Python Flask server
