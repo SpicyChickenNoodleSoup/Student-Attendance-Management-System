@@ -1,5 +1,6 @@
 # Student-Attendance-Management-System
 Student attendance management system for the browser using face recognition on video input from user's webcam with face-api.js by @justadudewhohacks (JavaScript face recognition API for the browser and nodejs implemented on top of tensorflow.js core, more details can be found here https://github.com/justadudewhohacks/face-api.js/)
+This is a HTML, CSS, vanilla Javascript, and Python web development project.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226543990-f04b578d-fced-4e5c-b1d4-e00a9e55791e.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226542549-4e4ff4ef-9ccc-43b6-8936-d2a3adf6b77f.png">
