@@ -3,7 +3,7 @@ This test aims to do a full process test to check that methods in the Python SDK
 
 ## To initialise test:
 Eg.
-'''python
+'''
 test1 = full_process_test()
 test1.initialise_with_secret_key("insert project secret key")
 '''
